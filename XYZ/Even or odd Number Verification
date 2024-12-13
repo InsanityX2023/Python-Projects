@@ -1,1 +1,6 @@
 a = int(input("Give the first number")
+if a%2 = 1:
+    print("The number that you provided is odd")
+else:
+    print("The number that you provided is even")
+    #MEW GOD
