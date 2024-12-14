@@ -3,7 +3,4 @@ if a%2 = 1:
     print("The number that you provided is odd")
 else:
     print("The number that you provided is even")
-<<<<<<< HEAD
     #MEW GOD
-=======
->>>>>>> f0c677a723d673e8489d5b863af28308fd4c9160
